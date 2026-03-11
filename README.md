@@ -1,0 +1,2 @@
+# AI
+Trying Artaficial Intelligence.
